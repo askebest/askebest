@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am currently studying Electrical Engineering with sepcial interest in signal processing.
 
 <!--
 **askebest/askebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
